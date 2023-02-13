@@ -14,11 +14,11 @@ Currently improving myself in the world of software development, I have dedicate
 🔭 Skills: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat-circle&logo=javascript)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-darkyellow?style=flat-circle&logo=html5)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-brown?style=flat-circle&logo=html5)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-pink?style=flat-circle&logo=css3)]()
 [![React](https://img.shields.io/badge/-React-lightblue?style=flat-circle&logo=react)]()
 [![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)]()
-[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)]()
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-circle&logo=Docker)]()
 [![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)]()
 </br>
 :hammer_and_wrench: TOOLS：
