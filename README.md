@@ -12,14 +12,14 @@ Currently improving myself in the world of software development, I have dedicate
 
 
 ## Skills:
-[![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)]()
-[![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)]()
-[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)]()
-</br>
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)]()
+[![TypeScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)]()
 [![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)]()
+[![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)]()
+[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)]()
 </br>
 :hammer_and_wrench: TOOLS：
 [![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)]()
@@ -34,4 +34,3 @@ Currently improving myself in the world of software development, I have dedicate
 🌱 Learning：
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)]()
 [![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)]()
-
