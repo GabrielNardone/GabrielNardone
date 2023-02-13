@@ -12,7 +12,7 @@ Currently improving myself in the world of software development, I have dedicate
 
 
 🔭 Skills: 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-circle&logo=javascript)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat-circle&logo=javascript)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-pink?style=flat-circle&logo=css3)]()
