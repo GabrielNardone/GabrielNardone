@@ -17,7 +17,7 @@ Currently improving myself in the world of software development, I have dedicate
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-pink?style=flat-circle&logo=css3)]()
-[![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)]()
+[![React](https://img.shields.io/badge/-React-lightblue?style=flat-circle&logo=react)]()
 [![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)]()
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)]()
 </br>
