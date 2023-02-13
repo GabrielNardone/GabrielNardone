@@ -11,8 +11,7 @@ Currently improving myself in the world of software development, I have dedicate
 
 
 
-## Skills:
-
+🔭 Skills:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-circle&logo=javascript)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5)]()
@@ -20,16 +19,14 @@ Currently improving myself in the world of software development, I have dedicate
 [![React](https://img.shields.io/badge/-React-lightblue?style=flat-circle&logo=react)]()
 [![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)]()
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)]()
+[![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)]()
 </br>
 :hammer_and_wrench: TOOLS：
 [![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)]()
 [![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA)]()
-</br>
 [![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)]()
 [![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)]()
 [![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)]()
-</br>
-[![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)]()
 </br>
 🌱 Learning：
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)]()
