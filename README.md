@@ -27,7 +27,7 @@
 [![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat-circle&logo=mysql)]()
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-circle&logo=jest)]()
 
-:hammer_and_wrench: **TOOLS:**
+#### Tools:
 [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-circle&logo=visual-studio-code)]()
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat-circle&logo=intellij-idea)]()
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-circle&logo=git)]()
