@@ -1,7 +1,7 @@
 
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
-### Hey! my name is Gabriel F. Nardone 👋
+### Hey! My name is Gabriel 👋
 ### Full Stack Developer
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
