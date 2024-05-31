@@ -6,11 +6,6 @@
 
 <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
-
-Currently improving myself in the world of software development, I have dedicated the last ten years to the philosophy academic field (particularly political theory and metaphysics). Being that both are abstract disciplines, they share several cognitive abilities in which I am highly trained and I like to exercise, for example, logical, abstract or holistic thinking, among others. The whole tech universe arouses a powerful interest in me, therefore, I intend to apply these skills to achieve great results. I´m curious, ambitious, disciplined and I have a taste for solving problems off all kinds.
-
-
-
 🔭 Skills: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-darkgreen?style=flat-circle&logo=javascript)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-circle&logo=typescript)]()
@@ -18,6 +13,8 @@ Currently improving myself in the world of software development, I have dedicate
 [![CSS3](https://img.shields.io/badge/-CSS3-pink?style=flat-circle&logo=css3)]()
 [![React](https://img.shields.io/badge/-React-lightblue?style=flat-circle&logo=react)]()
 [![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)]()
+[![Nest](https://img.shields.io/badge/-Java-red?style=flat-circle&logo=java)]()
+[![Node](https://img.shields.io/badge/-Java-green?style=flat-circle&logo=java)]()
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-circle&logo=Docker)]()
 [![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)]()
 </br>
