@@ -25,6 +25,8 @@
 [![Node](https://img.shields.io/badge/-Node-339933?style=flat-circle&logo=node.js)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-circle&logo=docker)]()
 [![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat-circle&logo=mysql)]()
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-circle&logo=postgresql)]()
+[![TypeORM](https://img.shields.io/badge/-TypeORM-FF5860?style=flat-circle&logo=typeorm)]()
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-circle&logo=jest)]()
 
 #### Tools:
