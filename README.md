@@ -24,7 +24,3 @@
 [![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)]()
 [![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)]()
 [![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)]()
-</br>
-🌱 Learning：
-[![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)]()
-[![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)]()
